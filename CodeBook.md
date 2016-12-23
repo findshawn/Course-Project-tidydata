@@ -70,3 +70,74 @@ Key terms in the 66 variable names:
     - "(" -> removed
     - ")" -> removed
 8. Rollup the dataset by *Subject* and *Activity*, and calculate the mean of each variable to populated the output (tidy) data.
+
+### Full list of variables in output (tidy) data:
+
+1. Subject                                             
+2. Activity                                            
+3. Time-Body-Acceleration-mean-X                       
+4. Time-Body-Acceleration-mean-Y                       
+5. Time-Body-Acceleration-mean-Z                       
+6. Time-Body-Acceleration-std-X                        
+7. Time-Body-Acceleration-std-Y                        
+8. Time-Body-Acceleration-std-Z                        
+9. Time-Gravity-Acceleration-mean-X                    
+10. Time-Gravity-Acceleration-mean-Y                    
+11. Time-Gravity-Acceleration-mean-Z                    
+12. Time-Gravity-Acceleration-std-X                     
+13. Time-Gravity-Acceleration-std-Y                     
+14. Time-Gravity-Acceleration-std-Z                     
+15. Time-Body-Acceleration-Jerk-mean-X                  
+16. Time-Body-Acceleration-Jerk-mean-Y                  
+17. Time-Body-Acceleration-Jerk-mean-Z                  
+18. Time-Body-Acceleration-Jerk-std-X                   
+19. Time-Body-Acceleration-Jerk-std-Y                   
+20. Time-Body-Acceleration-Jerk-std-Z                   
+21. Time-Body-Gyration-mean-X                           
+22. Time-Body-Gyration-mean-Y                           
+23. Time-Body-Gyration-mean-Z                           
+24. Time-Body-Gyration-std-X                            
+25. Time-Body-Gyration-std-Y                            
+26. Time-Body-Gyration-std-Z                            
+27. Time-Body-Gyration-Jerk-mean-X                      
+28. Time-Body-Gyration-Jerk-mean-Y                      
+29. Time-Body-Gyration-Jerk-mean-Z                      
+30. Time-Body-Gyration-Jerk-std-X                       
+31. Time-Body-Gyration-Jerk-std-Y                       
+32. Time-Body-Gyration-Jerk-std-Z                       
+33. Time-Body-Acceleration-Magnitude-mean               
+34. Time-Body-Acceleration-Magnitude-std                
+35. Time-Gravity-Acceleration-Magnitude-mean            
+36. Time-Gravity-Acceleration-Magnitude-std             
+37. Time-Body-Acceleration-Jerk-Magnitude-mean          
+38. Time-Body-Acceleration-Jerk-Magnitude-std           
+39. Time-Body-Gyration-Magnitude-mean                   
+40. Time-Body-Gyration-Magnitude-std                    
+41. Time-Body-Gyration-Jerk-Magnitude-mean              
+42. Time-Body-Gyration-Jerk-Magnitude-std               
+43. Frequency-Body-Acceleration-mean-X                  
+44. Frequency-Body-Acceleration-mean-Y                  
+45. Frequency-Body-Acceleration-mean-Z                  
+46. Frequency-Body-Acceleration-std-X                   
+47. Frequency-Body-Acceleration-std-Y                   
+48. Frequency-Body-Acceleration-std-Z                   
+49. Frequency-Body-Acceleration-Jerk-mean-X             
+50. Frequency-Body-Acceleration-Jerk-mean-Y             
+51. Frequency-Body-Acceleration-Jerk-mean-Z             
+52. Frequency-Body-Acceleration-Jerk-std-X              
+53. Frequency-Body-Acceleration-Jerk-std-Y              
+54. Frequency-Body-Acceleration-Jerk-std-Z              
+55. Frequency-Body-Gyration-mean-X                      
+56. Frequency-Body-Gyration-mean-Y                      
+57. Frequency-Body-Gyration-mean-Z                      
+58. Frequency-Body-Gyration-std-X                       
+59. Frequency-Body-Gyration-std-Y                       
+60. Frequency-Body-Gyration-std-Z                       
+61. Frequency-Body-Acceleration-Magnitude-mean          
+62. Frequency-Body-Acceleration-Magnitude-std           
+63. Frequency-Body-Body-Acceleration-Jerk-Magnitude-mean
+64. Frequency-Body-Body-Acceleration-Jerk-Magnitude-std 
+65. Frequency-Body-Body-Gyration-Magnitude-mean         
+66. Frequency-Body-Body-Gyration-Magnitude-std          
+67. Frequency-Body-Body-Gyration-Jerk-Magnitude-mean    
+68. Frequency-Body-Body-Gyration-Jerk-Magnitude-std  
